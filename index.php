@@ -1,5 +1,5 @@
 <?php 
-    $subPath = $_SERVER['HTTP_HOST'] == 'localhost:8888' ? '/hack/' : '';
+    $subPath = $_SERVER['HTTP_HOST'] == 'localhost:8888' ? '/hack/' : '/';
 
 
 ?>
@@ -25,6 +25,7 @@
     <link rel="stylesheet" href="<?=$subPath . 'assets/css/boxicons.min.css'?>">
 
     <link rel="stylesheet" href="<?=$subPath . 'assets/css/flaticon.css'?>">
+    <link rel="stylesheet" href="<?=$subPath . 'font/css/all.css'?>">
 
     <link rel="stylesheet" href="<?=$subPath . 'assets/css/meanmenu.min.css'?>">
 
@@ -91,8 +92,8 @@
                                 <div class="others-option">
                                     <div class="call-us">
                                         <a href="tel:+892-569-756">
-                                            <i class="bx bxs-phone-call"></i>
-                                            +1 (973) 658‑6943
+                                            <i class="fa fa-phone"></i>
+                                            +1 (601) 878-1319
                                         </a>
                                     </div>
                                 </div>
@@ -133,17 +134,17 @@
                 </li>
                 <li>
                     <a href="#" target="_blank">
-<i class="bx bxl-facebook"></i>
+<i class="fa fa-facebook"></i>
 </a>
                 </li>
                 <li>
                     <a href="#" target="_blank">
-<i class="bx bxl-instagram"></i>
+<i class="fa fa-instagram"></i>
 </a>
                 </li>
                 <li>
                     <a href="#" target="_blank">
-<i class="bx bxl-twitter"></i>
+<i class="fa fa-twitter"></i>
 </a>
                 </li>
             </ul>
@@ -287,11 +288,6 @@
                         <p>“Some weeks ago I contacted Legit Hack regarding getting evidence for a divorce, was fed up of the lies and cheating from my ex Husband. In Dubai you require real evidence for these as you know. So they got the job done for me within 2 hrs after making payment.Thank You Legit Hack.”</p>
                     </div>
                     <div class="single-security">
-                        <i class="flaticon-content"></i>
-                        <h3>Website Protection</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
-                    </div>
-                    <div class="single-security">
                         <i class="flaticon-cyber"></i>
                         <h3>Folan Mark</h3>
                         <p>“My son ran away from home last year, we had no where to look for him. A friend introduced me to Legit Hack, I contacted them and they took his phone number and they were able to track him in time before it was too late. Thank you very much, my family is happy because of you guys.”</p>
@@ -431,7 +427,7 @@ Know Details
                         <ul class="accordion">
                             <li class="accordion-item">
                                 <a class="accordion-title active" href="javascript:void(0)">
-<i class="bx bx-plus"></i>
+<i class="fa fa-plus"></i>
 HOW CAN I HIRE A HACKER FROM US?
 </a>
                                 <div class="accordion-content show">
@@ -440,7 +436,7 @@ HOW CAN I HIRE A HACKER FROM US?
                             </li>
                             <li class="accordion-item">
                                 <a class="accordion-title" href="javascript:void(0)">
-<i class="bx bx-plus"></i>
+                                <i class="fa fa-plus"></i>
 HOW MUCH DOES THIS COST?
 </a>
                                 <div class="accordion-content">
@@ -449,7 +445,7 @@ HOW MUCH DOES THIS COST?
                             </li>
                             <li class="accordion-item">
                                 <a class="accordion-title" href="javascript:void(0)">
-<i class="bx bx-plus"></i>
+<i class="fa fa-plus"></i>
 WHAT DETAILS DO I NEED TO PROVIDE FOR HACKING?
 </a>
                                 <div class="accordion-content">
@@ -458,7 +454,7 @@ WHAT DETAILS DO I NEED TO PROVIDE FOR HACKING?
                             </li>
                             <li class="accordion-item">
                                 <a class="accordion-title" href="javascript:void(0)">
-<i class="bx bx-plus"></i>
+<i class="fa fa-plus"></i>
 HOW CAN I TRUST YOU?
 </a>
                                 <div class="accordion-content">
@@ -488,14 +484,14 @@ HOW CAN I TRUST YOU?
                                 <a href="tel:Phone:+892-569-756">
                             <i class="bx bx-phone-call"></i>
                             <span>Hotline:</span>
-                            Phone: +892-569-756
+                            Phone: +1 (601) 878-1319
                             </a>
                             </li>
                             <li class="pl-0">
                                 <a href="/cdn-cgi/l/email-protection#761e131a1a193605131d035815191b">
                                     <i class="bx bx-envelope"></i>
                                     <span>Email:</span>
-                                    <span class="__cf_email__" data-cfemail="84ece1e8e8ebc4f7e1eff1aae7ebe9">[email&#160;protected]</span>
+                                    <span class="__cf_email__" data-cfemail="84ece1e8e8ebc4f7e1eff1aae7ebe9">legithack78@gmail.com</span>
                                 </a>
                             </li>
                             <li>
@@ -597,8 +593,7 @@ Security
                 <div class="col-lg-6">
                     <div class="copy-right">
                         <p>
-                            Copyright <i class="bx bx-copyright"></i>2021 Seku. Designed By
-                            <a href="https://envytheme.com/" target="blank">EnvyTheme</a>
+                            Copyright <i class="fa fa-copyright"></i>2021 LegitHack All Right Reserved
                         </p>
                     </div>
                 </div>
@@ -620,8 +615,8 @@ Security
 
 
     <div class="go-top">
-        <i class='bx bx-chevrons-up'></i>
-        <i class='bx bx-chevrons-up'></i>
+        <i class='fa fa-arrow-up'></i>
+        <i class='fa fa-arrow-up'></i>
     </div>
 <!-- GetButton.io widget -->
 <script type="text/javascript">
