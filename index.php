@@ -1,5 +1,5 @@
 <?php 
-    $subPath = $_SERVER['HTTP_HOST'] == 'localhost:8888' ? '/hack/' : '/';
+    $subPath = $_SERVER['HTTP_HOST'] == 'localhost:8888' ? '/hack/' : '/hack/';
 
 
 ?>
