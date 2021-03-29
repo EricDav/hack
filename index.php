@@ -93,7 +93,7 @@
                                     <div class="call-us">
                                         <a href="tel:+892-569-756">
                                             <i class="fa fa-phone"></i>
-                                            +1 (601) 878-1319
+                                            +1 (973) 658‑6943
                                         </a>
                                     </div>
                                 </div>
@@ -484,7 +484,7 @@ HOW CAN I TRUST YOU?
                                 <a href="tel:Phone:+892-569-756">
                             <i class="bx bx-phone-call"></i>
                             <span>Hotline:</span>
-                            Phone: +1 (601) 878-1319
+                            Phone: +1 (973) 658‑6943
                             </a>
                             </li>
                             <li class="pl-0">
