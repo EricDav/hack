@@ -297,7 +297,6 @@
         </div>
     </section>
 
-<!-- 
     <section class="team-area pt-100 pb-70">
         <div class="container">
             <div class="section-title">
@@ -340,7 +339,7 @@
                 </div>
             </div>
 
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-lg-6 col-sm-6">
                     <div class="single-team">
                         <div class="image">
@@ -370,10 +369,10 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
         </div>
-    </section> -->
+    </section>
 
 
     <section class="manual-area bg-color ptb-100">
@@ -619,13 +618,14 @@ Security
         <i class='fa fa-arrow-up'></i>
     </div>
 <!-- GetButton.io widget -->
+<!-- GetButton.io widget -->
 <script type="text/javascript">
     (function () {
         var options = {
-            whatsapp: "+1 (601) 878-1319", // WhatsApp number
+            whatsapp: "+1 (973) 658‑6943", // WhatsApp number
             call_to_action: "Message us", // Call to action
             position: "right", // Position may be 'right' or 'left'
-            pre_filled_message: "Hello", // WhatsApp pre-filled message
+            pre_filled_message: "Hello! My name is", // WhatsApp pre-filled message
         };
         var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
         var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
@@ -633,6 +633,7 @@ Security
         var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
     })();
 </script>
+<!-- /GetButton.io widget -->
 <!-- /GetButton.io widget -->
 
     <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
