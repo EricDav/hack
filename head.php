@@ -27,6 +27,6 @@
 
     <link rel="stylesheet" href="<?=$subPath . 'assets/css/responsive.css'?>">
 
-    <link rel="icon" type="image/png" href="<?=$subPath . 'assets/img/favicon.png'?>">
+    <link rel="icon" type="image/png" href="<?=$subPath . 'assets/img/favicon.jpeg'?>">
 
     <title><?=$title?></title>

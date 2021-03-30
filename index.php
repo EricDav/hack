@@ -312,7 +312,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <a href="#" class="default-btn mt-30">
+                        <a href="/contact" class="default-btn mt-30">
 Know Details
 </a>
                     </div>
