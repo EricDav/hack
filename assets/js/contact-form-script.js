@@ -18,9 +18,10 @@
         var message = $("#message").val();
         $.ajax({
             type: "POST",
-            url: "assets/php/form-process.php",
+            url: "/sendContact",
             data: "name=" + name + "&email=" + email + "&msg_subject=" + msg_subject + "&phone_number=" + phone_number + "&message=" + message,
             success: function(text) {
+                console.log(text);
                 if (text == "success") {
                     formSuccess();
                 } else {
