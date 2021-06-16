@@ -38,7 +38,7 @@ Home
                         <h3>New York</h3>
                         <p>88 Flower Avenue. Kingdom St. New York</p>
                         <a href="/cdn-cgi/l/email-protection#7c14191010133c0f191709">Email: <span class="__cf_email__" data-cfemail="264f4840496655434d530845494b">legithack78@gmail.com</span></a>
-                        <a href="tel:+1 (973) 658‑6943">+1 (973) 658‑6943</a>
+                        <a href="tel:+1 (916) 467‑9535">+1 (916) 467‑9535</a>
                     </div>
                 </div>
                 <div class="col-lg-3 p-0">
@@ -53,7 +53,7 @@ Home
                         <h3>California</h3>
                         <p>658 Lane Drive st Riverside. California</p>
                         <a href="/cdn-cgi/l/email-protection#e78f828b8b88a794828c92">Email: <span class="__cf_email__" data-cfemail="68000d040407281b0d031d460b0705">legithack78@gmail.com</span></a>
-                        <a href="tel:+1 (973) 658‑6943">+1 (973) 658‑6943</a>
+                        <a href="tel:+1 (916) 467‑9535">+1 (916) 467‑9535</a>
                     </div>
                 </div>
                 <div class="col-lg-3 p-0">

@@ -9,7 +9,7 @@
                                 <a href="tel:Phone:+892-569-756">
                             <i class="bx bx-phone-call"></i>
                             <span>Hotline:</span>
-                            Phone: +1 (973) 658‑6943
+                            Phone: +1 (916) 467‑9535
                             </a>
                             </li>
                             <li class="pl-0">

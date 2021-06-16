@@ -43,9 +43,9 @@
 
                                 <div class="others-option">
                                     <div class="call-us">
-                                        <a href="tel:+892-569-756">
+                                        <a href="tel:+1 (916) 467‑9535">
                                             <i class="fa fa-phone"></i>
-                                            +1 (973) 658‑6943
+                                            +1 (916) 467‑9535
                                         </a>
                                     </div>
                                 </div>

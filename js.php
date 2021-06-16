@@ -3,7 +3,7 @@
 <script type="text/javascript">
     (function () {
         var options = {
-            whatsapp: "+1 (973) 658‑6943", // WhatsApp number
+            whatsapp: "+1 (916) 467‑9535", // WhatsApp number
             call_to_action: "Message us", // Call to action
             position: "right", // Position may be 'right' or 'left'
             pre_filled_message: "Hello! My name is", // WhatsApp pre-filled message
